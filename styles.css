@@ -1,0 +1,102 @@
+body {
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .banner{
+    color: gold;
+  }
+.logo-img {
+    
+    height: 50px;
+    width: auto;
+    display: inline-block;
+    vertical-align: middle;
+}
+.logo-img {
+    color: #f7ef00;
+    height: 50px;
+    width: auto;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 10px; 
+}
+
+.navbar-brand .brand-text {
+    color: rgb(255, 215, 0); 
+    font-weight: bold;
+    font-size: 1.5rem; 
+    text-shadow: 1px 1px 2px #f7ef00; 
+    display: inline-block;
+    vertical-align: middle;
+}
+
+
+.navbar-brand {
+    display: flex;
+    align-items: center;
+    text-decoration: none; 
+}
+
+  
+  .banner {
+    background: url('./chinese-new-year-dish-wooden-background.jpg') no-repeat center center/cover;
+  }
+  
+  footer {
+    background-color: #333;
+    color: white;
+  }
+  
+  footer p {
+    margin: 0;
+  }
+  
+  form {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+.card {
+    border: none;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+
+.price {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #333;
+}
+
+.rating {
+    font-size: 1rem;
+}
+
+#contact {
+    align-self: center;
+    background-color: #222;
+}
+
+#contact .container {
+    padding-top: 20px;
+}
+
+#contact p {
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+#contact i {
+    margin-right: 8px;
+}
