@@ -1,6 +1,6 @@
 # RESTAURANT MANAGEMENT WEBSITE- FRONT-END
-Using tools HTML & Bootstrap
-URL Link : https://github.com/skdinesh/Restaurant-/blob/master/index.html
+Using HTML & Bootstrap
+
 <p align="center">
   <h2 align="center"> Home </h2>
   <img src="https://github.com/skdinesh/Restaurant-/blob/master/Home.png" alt="Home" />
